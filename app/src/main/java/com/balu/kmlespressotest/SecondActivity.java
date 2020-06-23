@@ -17,4 +17,9 @@ public class SecondActivity extends AppCompatActivity {
         viewById.setText(input);
         //hello
     }
+
+    @Override
+    protected void onResume() {
+        super.onResume();
+    }
 }
