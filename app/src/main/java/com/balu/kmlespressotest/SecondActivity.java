@@ -23,5 +23,6 @@ public class SecondActivity extends AppCompatActivity {
         super.onResume();
         // Resumed
         // Hello
+        //Hi
     }
 }
