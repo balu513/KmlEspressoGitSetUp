@@ -22,7 +22,9 @@ public class SecondActivity extends AppCompatActivity {
     protected void onResume() {
         super.onResume();
         // Resumed
+        // Hello
         //Hi
         //baby
+        //master
     }
 }
