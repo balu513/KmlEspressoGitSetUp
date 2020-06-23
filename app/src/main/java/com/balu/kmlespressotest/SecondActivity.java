@@ -15,5 +15,6 @@ public class SecondActivity extends AppCompatActivity {
         Bundle inputData = getIntent().getExtras();
         String input = inputData.getString("input");
         viewById.setText(input);
+        //hello
     }
 }
