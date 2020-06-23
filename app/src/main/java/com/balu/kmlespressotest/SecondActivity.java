@@ -24,5 +24,6 @@ public class SecondActivity extends AppCompatActivity {
         // Resumed
         // Hello
         //Hi
+        //master
     }
 }
