@@ -21,5 +21,6 @@ public class SecondActivity extends AppCompatActivity {
     @Override
     protected void onResume() {
         super.onResume();
+        // Resumed
     }
 }
